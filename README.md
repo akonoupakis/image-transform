@@ -10,6 +10,8 @@ Install with [npm](https://www.npmjs.com/)
 $ npm install image-transform --save
 ```
 
+Also, you may need to install [ImageMagick](http://www.imagemagick.org/script/download.php):
+
 ### Usage
 
 ```js
