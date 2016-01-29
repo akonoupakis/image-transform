@@ -1,6 +1,6 @@
 {
 	"name": "image-transform",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Image transformation utility with crop / stretch / fit methods",
 	"keywords": [
 		"image transformation",
