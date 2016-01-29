@@ -1,4 +1,4 @@
-# gitflow-publisher
+# image-transform
 
 > An image transformation utility with crop / stretch / fit methods
 
