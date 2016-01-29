@@ -7,7 +7,7 @@
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm install image-transform --save-dev
+$ npm install image-transform --save
 ```
 
 ### Usage
