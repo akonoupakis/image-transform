@@ -1,0 +1,4 @@
+/node_modules
+*.tgz
+publish.js
+publish.targets.json

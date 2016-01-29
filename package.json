@@ -1,0 +1,31 @@
+{
+  "name": "image-transform",
+  "version": "1.0.0",
+  "description": "Image transformation utility with crop / stretch / fit methods",
+  "keywords": [
+    "image transformation",
+    "image crop",
+    "image stretch",
+    "image fit"
+  ],
+  "author": {
+    "name": "Apostolis Konoupakis",
+    "email": "konoupakis@gmail.com",
+    "url": ""
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akonoupakis/image-transform.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akonoupakis/image-transform/issues"
+  },
+  "homepage": "https://github.com/akonoupakis/image-transform",
+  "dependencies": {
+    "easyimage": "^2.1.0",
+    "md5": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
