@@ -4,6 +4,7 @@
 ![VERSION](https://img.shields.io/npm/v/image-transform.svg)
 ![DOWNLOADS](https://img.shields.io/npm/dt/image-transform.svg)
 [![ISSUES](https://img.shields.io/github/issues-raw/akonoupakis/image-transform.svg)](https://github.com/akonoupakis/image-transform/issues)
+[![BUILD](https://api.travis-ci.org/akonoupakis/image-transform.svg?branch=master)](http://travis-ci.org/akonoupakis/image-transform)
 ![LICENCE](https://img.shields.io/npm/l/image-transform.svg)
 
 [![NPM](https://nodei.co/npm/image-transform.png?downloads=true)](https://nodei.co/npm/image-transform/)
