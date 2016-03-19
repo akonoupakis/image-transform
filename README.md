@@ -18,7 +18,7 @@ Use this image transformer to read images from a physical location, apply transf
 
 ## dependencies
 
-install [ImageMagick](http://www.imagemagick.org/script/download.php)
+Install [ImageMagick](http://www.imagemagick.org/script/download.php)
 
 ## transformations
 The image transformations may be used serially for the same image.
@@ -27,9 +27,9 @@ The image transformations may be used serially for the same image.
 * stretch: takes dimensions (width, height) and resizes/crops the image to stretch within the dimensions container
 * fit: takes dimensions (width, height) and force fits the image to the container
 
-## tutorials
+## usage
 
-* [Getting started](https://cdn.rawgit.com/akonoupakis/image-transform/master/docs/jsdoc/tutorial-getting-started.html)
+Check out this [tutorial](https://cdn.rawgit.com/akonoupakis/image-transform/master/docs/jsdoc/tutorial-getting-started.html) to get started.
 
 ## copyright and license
 
