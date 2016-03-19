@@ -1,41 +1,41 @@
 {
-  "name": "image-transform",
-  "version": "1.0.6",
-  "description": "image transformation utility with crop / stretch / fit methods",
-  "keywords": [
-    "image transformation",
-    "image crop",
-    "image stretch",
-    "image fit"
-  ],
-  "author": {
-    "name": "Apostolis Konoupakis",
-    "email": "konoupakis@gmail.com",
-    "url": ""
-  },
-  "main": "./lib/ImageTransformer.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/akonoupakis/image-transform.git"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/akonoupakis/image-transform/issues"
-  },
-  "scripts": {
-    "test": "standard ./lib/**/*.js"
-  },
-  "homepage": "https://github.com/akonoupakis/image-transform",
-  "dependencies": {
-    "easyimage": "^2.1.0",
-    "json-validation": "^1.0.4",
-    "md5": "^2.0.0",
-    "underscore": "^1.8.3"
-  },
-  "devDependencies": {
-    "dependency-check": "^2.5.1",
-    "jsdoc": "^3.4.0",
-    "minami": "^1.1.1",
-    "standard": "^6.0.8"
-  }
+	"name": "image-transform",
+	"version": "1.0.7",
+	"description": "image transformation utility with crop / stretch / fit methods",
+	"keywords": [
+		"image transformation",
+		"image crop",
+		"image stretch",
+		"image fit"
+	],
+	"author": {
+		"name": "Apostolis Konoupakis",
+		"email": "konoupakis@gmail.com",
+		"url": ""
+	},
+	"main": "./lib/ImageTransformer.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/akonoupakis/image-transform.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/akonoupakis/image-transform/issues"
+	},
+	"scripts": {
+		"test": "standard ./lib/**/*.js"
+	},
+	"homepage": "https://github.com/akonoupakis/image-transform",
+	"dependencies": {
+		"easyimage": "^2.1.0",
+		"json-validation": "^1.0.4",
+		"md5": "^2.0.0",
+		"underscore": "^1.8.3"
+	},
+	"devDependencies": {
+		"dependency-check": "^2.5.1",
+		"jsdoc": "^3.4.0",
+		"minami": "^1.1.1",
+		"standard": "^6.0.8"
+	}
 }
