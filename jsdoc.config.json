@@ -7,9 +7,9 @@
         "include": [
             "lib/ImageTransformer.js",
             "lib/ImageTransformation.js",
-            "lib/CropImageTransformation.js",
-            "lib/StretchImageTransformation.js",
-            "lib/FitImageTransformation.js"
+            "lib/CropTransformation.js",
+            "lib/StretchTransformation.js",
+            "lib/FitTransformation.js"
         ]
     },
     "opts": {
