@@ -3,3 +3,4 @@
 publish.js
 publish.targets.json
 /.vscode
+*.cmd
