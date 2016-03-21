@@ -4,3 +4,4 @@ publish.js
 publish.targets.json
 /.vscode
 *.cmd
+jsdoc-update.js
